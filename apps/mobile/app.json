@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "DS Bot",
+    "name": "DS Fleet Preview",
     "slug": "ds-bot-mobile",
     "version": "0.1.1",
     "orientation": "default",
-    "scheme": "dsbot",
+    "scheme": "dsfleetpreview",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -16,7 +16,7 @@
       }
     },
     "android": {
-      "package": "app.dsbot.mobile",
+      "package": "app.dsbot.fleetpreview",
       "edgeToEdgeEnabled": true,
       "softwareKeyboardLayoutMode": "resize",
       "allowBackup": false,
